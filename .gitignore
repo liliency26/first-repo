@@ -1,6 +1,5 @@
-/target
-*.class
-maven-status/
-createdFiles.lst
-inputFiles.lst
-
+/target 
+*.class 
+maven-status/ 
+createdFiles.lst 
+inputFiles.lst 
